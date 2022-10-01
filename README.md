@@ -1,2 +1,2 @@
 ## Demo  
-This demo repo for testing
+This is demo repo for testing
